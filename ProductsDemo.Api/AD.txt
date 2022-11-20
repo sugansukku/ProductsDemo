@@ -1,0 +1,22 @@
+﻿Azure AD:
+
+Install Microsoft.Identity.Web
+Add the config in the program.cs
+	Add app.useAuthentication()
+Add the azure AD connection settings in appsettings.json
+	CLientId
+	Instance
+	TenantId
+Create the new App Registration
+	Get the clientid and tenantid
+Expose this as an api
+	set app url
+Add scope
+Add app roles
+
+Then configure the scope in appsettings.json
+Now assign roles to the user
+	go to app registration
+	assign users and groups
+	select user and assign role
+

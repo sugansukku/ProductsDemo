@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+7hMdeO7JJf8esW0BZPVCXJnvqzisN43vnO8gamIVObn+AnyLbRakcRbtPUh2gum+xrHgx4OCU8SPKiGoUh8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skandhasamy\\Documents\\Suganya\\ProductsDemo\\ProductsDemo\\ProductsDemo.Logging\\ProductsDemo.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skandhasamy\\.nuget\\packages\\nlog\\5.0.5\\nlog.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

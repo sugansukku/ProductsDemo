@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3R/eGjarbGgJR0nCnRXeqtIBYVkNpIYrI2vSQGwNhbg=",
+  "Source": "ProductsDemo.Api",
+  "BasePath": "_content/ProductsDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

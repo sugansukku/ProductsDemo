@@ -1,0 +1,12 @@
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\bin\Debug\net6.0\ProductsDemo.Model.deps.json
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\bin\Debug\net6.0\ProductsDemo.Model.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\bin\Debug\net6.0\ProductsDemo.Model.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.csproj.AssemblyReference.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.AssemblyInfoInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.AssemblyInfo.cs
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.csproj.CoreCompileInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\refint\ProductsDemo.Model.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ProductsDemo.Model.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Model\obj\Debug\net6.0\ref\ProductsDemo.Model.dll

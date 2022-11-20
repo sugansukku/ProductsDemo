@@ -1,0 +1,17 @@
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Repository.deps.json
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Repository.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Data.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Model.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Data.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\bin\Debug\net6.0\ProductsDemo.Model.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.csproj.AssemblyReference.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.AssemblyInfoInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.AssemblyInfo.cs
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.csproj.CopyComplete
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\refint\ProductsDemo.Repository.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ProductsDemo.Repository.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Repository\obj\Debug\net6.0\ref\ProductsDemo.Repository.dll

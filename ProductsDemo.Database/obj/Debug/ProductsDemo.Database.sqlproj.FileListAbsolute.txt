@@ -1,0 +1,10 @@
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\bin\Debug\ProductsDemo.Database.dacpac
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\bin\Debug\ProductsDemo.Database.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\bin\Debug\ProductsDemo.Database.pdb
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\ProductsDemo.Database.sqlproj.AssemblyReference.cache
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\Model.xml
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\refactor.xml
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\postdeploy.sql
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\predeploy.sql
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\ProductsDemo.Database.dll
+C:\Users\skandhasamy\Documents\Suganya\ProductsDemo\ProductsDemo\ProductsDemo.Database\obj\Debug\ProductsDemo.Database.pdb
